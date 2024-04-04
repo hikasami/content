@@ -13,6 +13,6 @@ head:
       content: '© 2024 Hikasami'
 ---
 
-# УСЛОВИЯ ПРЕДОСТАВЛЕНИЯ СЕРВИСОВ ::logo HIKASAMI::
+# УСЛОВИЯ ПРЕДОСТАВЛЕНИЯ СЕРВИСОВ [HIKASAMI]{style="color: var(--color-accent)"}
 
 Последнее обновление: 03 апреля 2024 г.
