@@ -13,7 +13,7 @@ head:
       content: '© 2024 Hikasami'
 ---
 
-![Hikasami Github Cover](https://raw.githubusercontent.com/hikasami/.github/main/github_cover_v2.png)
+![Hikasami Github Cover](https://github.com/hikasami/content/blob/main/assets/images/hikasami.png?raw=true)
 
 # Наша история
 
