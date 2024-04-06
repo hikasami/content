@@ -11,6 +11,8 @@ head:
       content: 'Hikasami'
     - name: 'copyright'
       content: '© 2024 Hikasami'
+    - name: 'article:section'
+      content: 'Компания'
 ---
 
 # ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ [HIKASAMI]{style="color: var(--color-accent)"}
