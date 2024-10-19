@@ -1,3 +1,19 @@
+---
+title: 'Политика конфиденциальности'
+description: 'Политика конфиденциальности Hikasami'
+head:
+  meta:
+    - name: 'keywords'
+      content: 'hikasami terms'
+    - name: 'robots'
+      content: 'index, follow'
+    - name: 'author'
+      content: 'Hikasami'
+    - name: 'copyright'
+      content: '© 2024 Hikasami'
+    - name: 'article:section'
+      content: 'Политика'
+---
 # Политика конфиденциальности
 Последнее обновление: 19 октября 2024 г.
 
